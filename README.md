@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **rudrasingh6679@gmail.com**
 
+- [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://fozyhero.in)
+
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
+
+<p align="left"> <img src="https://komarev.com/gh
+https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-singh-597b76263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-singh-597b76263/" height="30" width="40" /></a>
@@ -21,11 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesingh6679&" alt="princesingh6679" /></p>
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://fozyhero.in)
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-
-<p align="left"> <img src="https://komarev.com/gh
-https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
