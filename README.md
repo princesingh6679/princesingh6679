@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-singh-597b76263/)(https://github.com/princesingh6679?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-singh-597b76263/)
+
+(https://github.com/princesingh6679?tab=repositories)
 
 <h3 align="center">A passionate frontend developer from India, wanna be Full Stack developer.</h3>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
