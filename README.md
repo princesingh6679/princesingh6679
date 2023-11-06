@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋🏻, I'm Prince Kumar Singh</h1>
+
 ## 🌐 Socials:
+
+
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-singh-597b76263/)(https://github.com/princesingh6679?tab=repositories)
 
