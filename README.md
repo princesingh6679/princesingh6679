@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh6679&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh6679" /> </p>
 
-- 🌱 I’m currently learning **Advance Java ,DBMS**
-
-- 💬 Ask me about **java, C++**
-
-- 📫 How to reach me **rudrasingh6679@gmail.com**
-
-- [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://fozyhero.in)
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://fozyhero.in)
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -18,6 +12,14 @@
 <p align="left"> <img src="https://komarev.com/gh
 https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif
 
+
+- 🌱 I’m currently learning **Advance Java ,DBMS**
+
+- 💬 Ask me about **java, C++**
+
+- 📫 How to reach me **rudrasingh6679@gmail.com**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
