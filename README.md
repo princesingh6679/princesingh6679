@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh6679&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh6679" /> </p>
 
-- 🌱 I’m currently learning **Advance Java ,DBMS**
+- 🌱 I’m currently learning **MERN Full Stack Developer**
 
-- 💬 Ask me about **java, C++**
+- 💬 Ask me about **python, javascript**
 
 - 📫 How to reach me **rudrasingh6679@gmail.com**
 
