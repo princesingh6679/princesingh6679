@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Developer**
 
-- 💬 Ask me about **python, javascript**
+- 💬 Ask me about **python, javascript**, ReactJs**
 
 - 📫 How to reach me **rudrasingh6679@gmail.com**
 
