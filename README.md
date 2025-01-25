@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **python, javascript**, ReactJs**
 
-- 📫 How to reach me **rudrasingh6679@gmail.com**
+- 📫 How to reach me **rudra6679@gmail.com**
 
 
 
